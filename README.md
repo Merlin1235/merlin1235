@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Merlin1235/merlin1235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
