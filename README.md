@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="file_000000002dd881f493b5c4d6d9fb4156.png" width="100%">
-</p>
 
-<br>
+<p align="center">
+  <img src="./file_000000002dd881f493b5c4d6dd9fb4156.png" width="100%">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Joseph+Musyimi+Kala;Frontend+Developer;Blockchain+%26+Web3+Enthusiast;Open+Source+Learner;Welcome+to+my+GitHub!" />
