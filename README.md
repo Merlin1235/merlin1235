@@ -99,6 +99,14 @@ Building modern web applications and exploring Blockchain, AI, and Open Source.
 <p align="center">
 <i>"I don't just write code—I build possibilities, one commit at a time."</i>
 </p>
+## 🌱 Currently Learning
+
+- ⚛️ React.js
+- 🟢 Node.js
+- 🔗 Blockchain & Web3
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Computing
+- 
 
 
 
