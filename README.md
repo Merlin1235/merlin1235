@@ -89,4 +89,11 @@ Building modern web applications and exploring Blockchain, AI, and Open Source.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merlin1235&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Merlin1235&theme=tokyo-night&hide_border=true" />
+</p>
+
+
 > **"I don't just write code—I build possibilities, one commit at a time."** 🚀
