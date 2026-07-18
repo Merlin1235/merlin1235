@@ -52,6 +52,13 @@ Building modern web applications and exploring Blockchain, AI, and Open Source.
   <img src="https://github-profile-trophy.vercel.app/?username=Merlin1235&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
+<h2 align="center">👀 Profile Views</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Merlin1235&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merlin1235&layout=compact&theme=tokyonight" />
 </p>
