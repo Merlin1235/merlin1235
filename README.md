@@ -94,6 +94,12 @@ Building modern web applications and exploring Blockchain, AI, and Open Source.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Merlin1235&theme=tokyo-night&hide_border=true" />
 </p>
+<h2 align="center">💡 Favorite Quote</h2>
+
+<p align="center">
+<i>"I don't just write code—I build possibilities, one commit at a time."</i>
+</p>
+
 
 
 > **"I don't just write code—I build possibilities, one commit at a time."** 🚀
