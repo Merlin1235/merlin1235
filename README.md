@@ -1,4 +1,4 @@
-
+u
 <p align="center">
   <img src="./file_000000002dd881f493b5c4d6dd9fb4156.png" width="100%">
 </p>
@@ -59,6 +59,11 @@ Building modern web applications and exploring Blockchain, AI, and Open Source.
 - 📸 Instagram: @_merli.n
 - 💻 GitHub: https://github.com/merlin1235
 
+<p align="center">
+<a href="https://github.com/Merlin1235"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://instagram.com/_merli.n"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:jkala863@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 ---
 
 > **"I don't just write code—I build possibilities, one commit at a time."** 🚀
