@@ -49,7 +49,7 @@ Building modern web applications and exploring Blockchain, AI, and Open Source.
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Merlin1235&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=merlin1235&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <h2 align="center">👀 Profile Views</h2>
