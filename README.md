@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./file_000000002dd881f493b5c4d6dd9fb4156.png" width="100%">
+  <img src="./file_000000002dd881f493b5c46dd9fb4156.png" alt="CodeWithMerlin Banner" width="100%">
 </p>
 
 <p align="center">
