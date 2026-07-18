@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Joseph Musyimi Kala</h1>
+<p align="center">
+  <img src="file_000000002dd881f493b5c4d6d9fb4156.png" width="100%">
+</p>
+
+<br>
+***<h1 align="center">Hi 👋, I'm Joseph Musyimi Kala</h1>
 
 <h3 align="center">💻 Computer Science Student | Frontend Developer | Tech Enthusiast</h3>
 
