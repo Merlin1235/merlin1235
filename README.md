@@ -64,6 +64,11 @@ Building modern web applications and exploring Blockchain, AI, and Open Source.
 <a href="https://instagram.com/_merli.n"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:jkala863@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
----
+--
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Merlin1235&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merlin1235&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 > **"I don't just write code—I build possibilities, one commit at a time."** 🚀
