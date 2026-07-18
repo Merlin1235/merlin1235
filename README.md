@@ -27,6 +27,10 @@ Building modern web applications and exploring Blockchain, AI, and Open Source.
 - 🎯 Goal: Become a Full-Stack Software Engineer
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Merlin1235&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Merlin1235&theme=tokyonight" />
+</p>
 
 ## 🛠️ Tech Stack
 
