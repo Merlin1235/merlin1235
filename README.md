@@ -42,6 +42,9 @@ Building modern web applications and exploring Blockchain, AI, and Open Source.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merlin1235&layout=compact&theme=tokyonight" />
+</p>
 
 ## 📊 GitHub Stats
 
