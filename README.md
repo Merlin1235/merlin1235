@@ -3,6 +3,11 @@
 </p>
 
 <br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Joseph+Musyimi+Kala;Frontend+Developer;Blockchain+%26+Web3+Enthusiast;Open+Source+Learner;Welcome+to+my+GitHub!" />
+</p>
+
 ***<h1 align="center">Hi 👋, I'm Joseph Musyimi Kala</h1>
 
 <h3 align="center">💻 Computer Science Student | Frontend Developer | Tech Enthusiast</h3>
