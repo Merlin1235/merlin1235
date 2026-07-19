@@ -128,6 +128,12 @@ I'm always open to collaborating on:
 
 ---
 
+## ❤️ Support
+
+If you like my projects, consider ⭐ starring my repositories and following my GitHub journey!
+
+---
+
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
