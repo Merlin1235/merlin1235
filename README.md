@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/merlin1235/merlin1235/main/assets/banner.png" alt="CodeWithMerlin Banner" width="100%">
-</p>
+<img src="file_000000002dd881f493b5c46dd9fb4156.png">
 
 <h1 align="center">Hi 👋, I'm Joseph Musyimi Kala</h1>
 
