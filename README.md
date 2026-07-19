@@ -62,6 +62,8 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=merlin1235&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merlin1235&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
