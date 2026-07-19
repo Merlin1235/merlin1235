@@ -102,6 +102,10 @@
 - 🔄 Contribute to Open Source
 
 ---
+## ⚡ Daily Workflow
+
+☕ Coffee → 💻 Code → 🐛 Debug → 🚀 Deploy → 📚 Learn → 🔁 Repeat
+
 ## 🚀 Current Mission
 
 Building impactful software, growing as a Full-Stack Developer, contributing to the developer community, and inspiring others through **CodeWithMerlin**.
