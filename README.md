@@ -91,6 +91,17 @@
 - 📚 Tech Content Creation
 
 ---
+## 🗺️ 2026 Roadmap
+
+- ✅ Learn React.js
+- ✅ Learn Node.js & Express
+- 🔄 Master TypeScript
+- 🔄 Learn Docker
+- 🔄 Learn AWS Cloud
+- 🔄 Build SaaS Applications
+- 🔄 Contribute to Open Source
+
+---
 ## 🤝 Open Source
 
 I'm actively learning open source and looking forward to contributing to projects that make a positive impact on the developer community.
