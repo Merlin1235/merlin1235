@@ -175,3 +175,8 @@ If you enjoy my work, consider following me and starring my repositories.
 🚀 **Happy Coding!**
 
 </div>
+<p align="center">
+
+⭐ From <a href="https://github.com/merlin1235">CodeWithMerlin</a>
+
+</p>
