@@ -107,6 +107,11 @@ I'm actively learning open source and looking forward to contributing to project
 📧 **Email:** jkala863@gmail.com
 
 ---
+## ⚡ Motto
+
+> "Learn. Build. Share. Repeat."
+
+---
 
 # 💡 Quote
 
