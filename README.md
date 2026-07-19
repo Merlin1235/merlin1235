@@ -113,6 +113,15 @@ I'm actively learning open source and looking forward to contributing to project
 > *"Code is not just syntax—it's a tool for solving real problems and creating meaningful impact."*
 
 ---
+## 🤝 Let's Collaborate
+
+I'm always open to collaborating on:
+- 🌐 Web Development
+- 🔗 Blockchain Projects
+- 🤖 AI Projects
+- 🚀 Open Source
+
+---
 
 <div align="center">
 
