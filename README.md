@@ -82,6 +82,15 @@
 - 📚 Sharing programming knowledge through **CodeWithMerlin**
 
 ---
+## 💼 Services
+
+- 🌐 Frontend Web Development
+- 🎨 Responsive UI Design
+- 🛠️ Website Maintenance
+- 🗄️ Database Design (MySQL)
+- 📚 Tech Content Creation
+
+---
 ## 🤝 Open Source
 
 I'm actively learning open source and looking forward to contributing to projects that make a positive impact on the developer community.
