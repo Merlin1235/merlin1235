@@ -105,6 +105,12 @@
 ## ⚡ Daily Workflow
 
 ☕ Coffee → 💻 Code → 🐛 Debug → 🚀 Deploy → 📚 Learn → 🔁 Repeat
+---
+## 💭 Developer Mindset
+
+> "Code is not just about solving today's problems—it's about building tomorrow's possibilities."
+
+---
 
 ## 🚀 Current Mission
 
