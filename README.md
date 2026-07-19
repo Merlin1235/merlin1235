@@ -42,7 +42,10 @@
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=merlin1235&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-ruby-one-69.vercel.app/api?username=merlin1235&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-ruby-one-69.vercel.app/api/top-langs/?username=merlin1235&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
