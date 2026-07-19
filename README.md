@@ -132,6 +132,13 @@ I'm actively learning open source and looking forward to contributing to project
 
 ---
 
+## 📜 License
+
+This project is licensed under the MIT License.
+
+Copyright © 2026 CodeWithMerlin
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
