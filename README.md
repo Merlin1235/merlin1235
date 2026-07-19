@@ -102,6 +102,10 @@
 - 🔄 Contribute to Open Source
 
 ---
+## 🚀 Current Mission
+
+Building impactful software, growing as a Full-Stack Developer, contributing to the developer community, and inspiring others through **CodeWithMerlin**.
+---
 ## 🤝 Open Source
 
 I'm actively learning open source and looking forward to contributing to projects that make a positive impact on the developer community.
