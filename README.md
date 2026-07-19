@@ -74,6 +74,14 @@
 </p>
 
 ---
+## 🏆 Achievements
+
+- 🚀 Built and deployed multiple web projects
+- 💻 Created the **SchemaLens** database visualization tool
+- 🌱 Continuously learning modern web technologies
+- 📚 Sharing programming knowledge through **CodeWithMerlin**
+
+---
 ## 🤝 Open Source
 
 I'm actively learning open source and looking forward to contributing to projects that make a positive impact on the developer community.
