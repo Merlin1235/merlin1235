@@ -63,9 +63,8 @@ Building modern web applications and exploring Blockchain, AI, and Open Source.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merlin1235&layout=compact&theme=tokyonight" />
 </p>
 
-## 📊 GitHub Stats
-
-![Merlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=merlin1235&show_icons=true&theme=github_dark)
+## 📊 GitHub Stats 
+![Merlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merlin1235&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merlin1235&layout=compact&theme=github_dark)
 
