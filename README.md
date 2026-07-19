@@ -40,12 +40,18 @@
 
 ---
 
-# 📊 GitHub Stats
+---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-ruby-one-69.vercel.app/api?username=merlin1235&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-ruby-one-69.vercel.app/api/top-langs/?username=merlin1235&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 🚀 Featured Projects
+
+- 🌐 **Portfolio Website** – My personal portfolio showcasing my skills, projects, and journey as a developer.
+- 🗄️ **SchemaLens** – A database schema visualization tool that helps developers understand and explore database structures.
+- ⛓️ **Blockchain & Web3 Projects** – Hands-on projects exploring smart contracts, decentralized applications (dApps), and Web3 technologies.
+- 🚀 **CodeWithMerlin** – My personal brand where I share programming tutorials, tech insights, and development resources.
+- 💻 **JavaScript Projects** – A collection of interactive web applications built with HTML, CSS, and JavaScript.
+- 🐍 **Python Projects** – Practical Python applications focused on automation, problem-solving, and learning.
+
+---
 
 ---
 
