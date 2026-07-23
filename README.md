@@ -88,26 +88,18 @@ Goal:
 
 </p>
 
-📈 Contribution Graph
+---
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=merlin1235&theme=tokyo-night"/>
-
-</p>
-
-───
-
-🏆 Achievements
+# 🏆 Achievements
 
 • 🚀 Built and deployed multiple web projects
 • 💻 Created the SchemaLens database visualization tool
 • 🌱 Continuously learning modern web technologies
 • 📚 Sharing programming knowledge through CodeWithMerlin
 
-───
+---
 
-💼 Services
+# 💼 Services
 
 • 🌐 Frontend Web Development
 • 🎨 Responsive UI Design
@@ -115,9 +107,9 @@ Goal:
 • 🗄️ Database Design (MySQL)
 • 📚 Tech Content Creation
 
-───
+---
 
-🗺️ 2026 Roadmap
+# 🗺️ 2026 Roadmap
 
 • ✅ Learn React.js
 • ✅ Learn Node.js & Express
@@ -127,27 +119,27 @@ Goal:
 • 🔄 Build SaaS Applications
 • 🔄 Contribute to Open Source
 
-───
+---
 
-⚡ Daily Workflow
+# ⚡ Daily Workflow
 
 ☕ Coffee → 💻 Code → 🐛 Debug → 🚀 Deploy → 📚 Learn → 🔁 Repeat
 💭 Developer Mindset
 
 "Code is not just about solving today's problems—it's about building tomorrow's possibilities."
 
-───
+---
 
-🚀 Current Mission
+# 🚀 Current Mission
 
 Building impactful software, growing as a Full-Stack Developer, contributing to the developer community, and inspiring others through CodeWithMerlin.
 🤝 Open Source
 
 I'm actively learning open source and looking forward to contributing to projects that make a positive impact on the developer community.
 
-───
+---
 
-📚 Currently Learning
+# 📚 Currently Learning
 
 • ⚛️ React.js
 • 🟢 Node.js
@@ -155,15 +147,17 @@ I'm actively learning open source and looking forward to contributing to project
 • 🤖 Artificial Intelligence
 • ☁️ Cloud Computing
 
-───
+---
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License.
 
 Copyright © 2026 CodeWithMerlin
 
-🌐 Connect With Me
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -179,21 +173,21 @@ Copyright © 2026 CodeWithMerlin
 
 📧 Email: jkala863@gmail.com
 
-───
+---
 
-⚡ Motto
+# ⚡ Motto
 
 "Learn. Build. Share. Repeat."
 
-───
+---
 
-💡 Quote
+# 💡 Quote
 
 "Code is not just syntax—it's a tool for solving real problems and creating meaningful impact."
 
-───
+---
 
-🤝 Let's Collaborate
+# 🤝 Let's Collaborate
 
 I'm always open to collaborating on:
 • 🌐 Web Development
@@ -201,21 +195,21 @@ I'm always open to collaborating on:
 • 🤖 AI Projects
 • 🚀 Open Source
 
-───
+---
 
-❤️ Support
+# ❤️ Support
 
 If you like my projects, consider ⭐ starring my repositories and following my GitHub journey!
 
-───
+---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+# ⭐ Thanks for visiting my profile!
 
 If you enjoy my work, consider following me and starring my repositories.
 
-🚀 Happy Coding!
+# 🚀 Happy Coding!
 
 </div>
 <p align="center">
