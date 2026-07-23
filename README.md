@@ -255,4 +255,10 @@ If you enjoy my work, consider following me and starring my repositories.
 ⭐ From <a href="https://github.com/merlin1235">CodeWithMerlin</a>
 
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/merlin1235/merlin1235/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 ---
