@@ -90,6 +90,44 @@ Goal:
 
 ---
 
+# 🚀 Current Project
+
+## 🌟 Nexus
+
+> **The next-generation all-in-one developer platform.**
+
+Nexus is my flagship project currently under development. It aims to provide developers with a modern workspace for building, managing, collaborating on, and deploying software projects from a single platform.
+
+### ✨ Vision
+
+Build a platform where developers can:
+
+- 🤝 Collaborate with teams in real time
+- 📂 Manage projects and tasks
+- 🤖 Use an AI-powered coding assistant
+- 💬 Communicate through built-in chat
+- 📊 Track project progress with analytics
+- 🔐 Securely authenticate users
+- ☁️ Integrate cloud services
+- 🚀 Deploy and manage applications
+- 📱 Enjoy a fast, modern, responsive interface
+
+### 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode"/>
+
+</p>
+
+### 📌 Status
+
+🚧 **Actively in Development**
+
+> *Building the future of software development—one commit at a time.*
+
+---
+
 # 🏆 Achievements
 
 • 🚀 Built and deployed multiple web projects
