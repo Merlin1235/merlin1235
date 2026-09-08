@@ -88,6 +88,8 @@ Goal:
 </p>
 
 
+ ##🔥 GitHub Streak
+
 <img src="https://streak-stats.demolab.com?user=merlin1235&theme=tokyonight&hide_border=true"/>
 
 </p>
