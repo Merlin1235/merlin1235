@@ -1,3 +1,4 @@
+<p align="center">
 <img src="file_000000002dd881f493b5c46dd9fb4156.png" width="100%" alt="CodeWithMerlin Banner"/>
 
 <h1 align="center">Hi 👋, I'm Joseph Musyimi Kala</h1>
@@ -74,51 +75,6 @@ Goal:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"
-    width="48%"
-  />
-  
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"
-    width="48%"
-  />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true"
-    width="95%"
-  />
-</p>
-
----
-
-## 💙 Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"
-  />
-</p>
-
----
-
-## 🔥 Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,docker,aws" />
-</p>
-
----
-
 ## 💙 Sponsor
 
 <p align="center">
@@ -131,7 +87,6 @@ Goal:
   <i>A little support means a lot 💙✨</i>
 </p>
 
-<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=merlin1235&theme=tokyonight&hide_border=true"/>
 
