@@ -50,13 +50,6 @@ Goal:
   Become a Full-Stack Software Engineer
 ```
 ---
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <i>more cool things shipping soon 💻✨</i>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -87,6 +80,8 @@ Goal:
   <i>A little support means a lot 💙✨</i>
 </p>
 
+
+---
 
  ##🔥 GitHub Streak
 
