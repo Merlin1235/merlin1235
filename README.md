@@ -51,7 +51,6 @@ Goal:
 ---
 
 # 🔥 GitHub Streak
-# 👋 Hi, I'm YOUR NAME 💙
 
 <p align="center">
   <i>more cool things shipping soon 💻✨</i>
