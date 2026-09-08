@@ -51,6 +51,86 @@ Goal:
 ---
 
 # 🔥 GitHub Streak
+# 👋 Hi, I'm YOUR NAME 💙
+
+<p align="center">
+  <i>more cool things shipping soon 💻✨</i>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,python,figma,nodejs,tailwind,git,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-2196F3?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1976D2?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-2196F3?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"
+    width="48%"
+  />
+  
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"
+    width="48%"
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true"
+    width="95%"
+  />
+</p>
+
+---
+
+## 💙 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"
+  />
+</p>
+
+---
+
+## 🔥 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,docker,aws" />
+</p>
+
+---
+
+## 💙 Sponsor
+
+<p align="center">
+  <a href="https://github.com/sponsors/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/💙%20SPONSOR%20ME-1976D2?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <i>A little support means a lot 💙✨</i>
+</p>
 
 <p align="center">
 
